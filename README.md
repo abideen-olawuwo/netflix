@@ -17,7 +17,7 @@ and description
 
 * Modelling
 
-The model used for TfidfVectorizer
+The model used is TfidfVectorizer
 
 
 
